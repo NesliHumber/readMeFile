@@ -24,47 +24,47 @@ The Computer Programming Skill Swap Platform aims to solve the problem of findin
 
 ### Key Features
 
-User Profile Pages: Users can create and manage profiles with skill listings, expertise levels, and teaching packages.
-Skill Matching: Interactive charts and filters suggest potential skill-swap partners.
-Swap Scheduling: A calendar system allows users to schedule and confirm swap sessions.
-Rating & Review System: Users can rate their swap sessions, providing feedback to others.
-Groups & Forums: Create or join groups, participate in discussions, and learn in a collaborative environment.
-News & Trends: Stay updated with the latest programming trends, tutorials, and resources.
-Secure Payment Gateway: A secure payment system for users who wish to sell their educational materials.
+**User Profile Pages:** Users can create and manage profiles with skill listings, expertise levels, and teaching packages.
+**Skill Matching:** Interactive charts and filters suggest potential skill-swap partners.
+**Swap Scheduling:** A calendar system allows users to schedule and confirm swap sessions.
+**Rating & Review System:** Users can rate their swap sessions, providing feedback to others.
+**Groups & Forums:** Create or join groups, participate in discussions, and learn in a collaborative environment.
+**News & Trends:** Stay updated with the latest programming trends, tutorials, and resources.
+**Secure Payment Gateway:** A secure payment system for users who wish to sell their educational materials.
 
 ### Main Features
 
-User Registration & Login: Secure authentication system for user registration and login.
-Interactive Skill Matching: Filters to sort potential swap partners based on programming languages, frameworks, and experience levels.
-Booking & Scheduling System: Users can set their availability and request swap sessions via an integrated calendar.
-Review System: After each swap, users can rate the session and provide feedback.
-Forum: A community-driven discussion forum where users can ask questions and share experiences.
-Groups: Users can form or join study groups based on their learning interests.
-E-commerce Integration: Users can purchase or sell coding materials through the platform’s online store.
+**User Registration & Login:** Secure authentication system for user registration and login.
+**Interactive Skill Matching:** Filters to sort potential swap partners based on programming languages, frameworks, and experience levels.
+**Booking & Scheduling System:** Users can set their availability and request swap sessions via an integrated calendar.
+**Review System:** After each swap, users can rate the session and provide feedback.
+**Forum:** A community-driven discussion forum where users can ask questions and share experiences.
+**Groups:** Users can form or join study groups based on their learning interests.
+**Shopping:** Users can purchase or sell coding materials through the platform’s online store.
 
 ### Screenshots
 
 Here are some screenshots of the platform to give you a better idea of the user interface and features:
 
-Homepage:
+**Homepage:**
 
-User Dashboard:
+**User Dashboard:**
 
-Skill Matching:
+**Skill Matching:**
 
-Forum:
+**Forum:**
 
-Shop Page:
+**Shop Page:**
 
 ### Technologies
 
 The platform is built with the following technologies:
 
-Frontend: HTML, CSS, Bootstrap
-Interactive Functionality: Node.js, JavaScript, React.js
-Automation Testing: Selenium, Playwright
-Deployment: GitHub Pages for hosting
-Version Control: GitHub (with branching strategies for development, testing, and deployment)
+- Frontend: HTML, CSS, Bootstrap
+- Interactive Functionality: Node.js, JavaScript, React.js
+- Automation Testing: Selenium, Playwright
+- Deployment: GitHub Pages for hosting
+- Version Control: GitHub (with branching strategies for development, testing, and deployment)
 
 ### Installation Instructions
 
